@@ -1,3 +1,7 @@
+<h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteoussize&size=25&duration=4000&pause=500&width=435&lines=Seja+bem+vindo!+%F0%9F%91%8B;Me+chamo+Guilherme+Giacomello!" alt="Typing SVG" /></a>
+</h1>
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Giacomellogui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Giacomellogui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
