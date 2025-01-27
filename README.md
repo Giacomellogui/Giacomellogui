@@ -36,13 +36,6 @@
 
 ###
 
- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Giacomellogui&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
+<img src="https://raw.githubusercontent.com/Giacomellogui/Giacomellogui/output/snake.svg" alt="Snake animation" />
 
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Giacomellogui&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Giacomellogui&show_icons=true" />
+###
